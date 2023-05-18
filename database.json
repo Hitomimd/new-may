@@ -1,0 +1,512 @@
+{
+   "users": [
+      {
+         "afk": -1,
+         "afkReason": "",
+         "banTemp": 0,
+         "banTimes": 0,
+         "banned": false,
+         "expired": 1685711346531,
+         "hit": 75,
+         "jid": "6285878105774@s.whatsapp.net",
+         "lastseen": 1683129053111,
+         "limit": 1006,
+         "name": "6285878105774@s.whatsapp.net",
+         "premium": true,
+         "spam": 0,
+         "usebot": 1683129053118,
+         "warning": 0
+      },
+      {
+         "afk": -1,
+         "afkReason": "",
+         "banTemp": 0,
+         "banTimes": 0,
+         "banned": false,
+         "expired": 0,
+         "hit": 0,
+         "jid": "6285692242215@s.whatsapp.net",
+         "lastseen": 1683129157073,
+         "limit": 25,
+         "name": "6285692242215@s.whatsapp.net",
+         "premium": false,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "afk": -1,
+         "afkReason": "",
+         "banTemp": 0,
+         "banTimes": 0,
+         "banned": false,
+         "expired": 0,
+         "hit": 0,
+         "jid": "62856922422153@s.whatsapp.net",
+         "lastseen": 1683118983437,
+         "limit": 25,
+         "name": "62856922422153@s.whatsapp.net",
+         "premium": false,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "afk": -1,
+         "afkReason": "",
+         "banTemp": 0,
+         "banTimes": 0,
+         "banned": false,
+         "expired": 0,
+         "hit": 76,
+         "jid": "6285692242216@s.whatsapp.net",
+         "lastseen": 1683129180676,
+         "limit": 25,
+         "name": "6285692242216@s.whatsapp.net",
+         "premium": false,
+         "spam": 1,
+         "usebot": 1683129180684,
+         "warning": 0
+      }
+   ],
+   "chats": [
+      {
+         "chat": 143,
+         "command": 1683129053118,
+         "jid": "120363058934303095@g.us",
+         "lastchat": 0,
+         "lastseen": 1683129053111
+      },
+      {
+         "chat": 99,
+         "command": 1683126893850,
+         "jid": "6285878105774@s.whatsapp.net",
+         "lastchat": 0,
+         "lastseen": 1683126895403
+      },
+      {
+         "chat": 113,
+         "command": 1683129180684,
+         "jid": "6285692242216@s.whatsapp.net",
+         "lastchat": 0,
+         "lastseen": 1683129180676
+      }
+   ],
+   "groups": [
+      {
+         "activity": 1683129053110,
+         "antidelete": true,
+         "antilink": true,
+         "antivirtex": false,
+         "autoread": true,
+         "expired": 0,
+         "filter": true,
+         "jid": "120363058934303095@g.us",
+         "left": true,
+         "localonly": false,
+         "member": {
+            "62856922422153@s.whatsapp.net": {
+               "lastseen": 1683118983439,
+               "warning": 0
+            },
+            "6285692242216@s.whatsapp.net": {
+               "lastseen": 1683127275317,
+               "warning": 0
+            },
+            "6285878105774@s.whatsapp.net": {
+               "lastseen": 1683129053113,
+               "warning": 1
+            }
+         },
+         "mute": false,
+         "stay": false,
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true
+      }
+   ],
+   "statistic": {
+      "+prem": {
+         "hitstat": 1,
+         "lasthit": 1683119346496,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "add": {
+         "hitstat": 5,
+         "lasthit": 1683119151859,
+         "sender": "6285692242216",
+         "today": 5
+      },
+      "antilink": {
+         "hitstat": 1,
+         "lasthit": 1683118981535,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "api": {
+         "hitstat": 2,
+         "lasthit": 1683129011873,
+         "sender": "6285878105774",
+         "today": 2
+      },
+      "apk": {
+         "hitstat": 1,
+         "lasthit": 1683119739061,
+         "sender": "6285878105774",
+         "today": 1
+      },
+      "bcgc": {
+         "hitstat": 1,
+         "lasthit": 1683127714810,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "checkapi": {
+         "hitstat": 2,
+         "lasthit": 1683125371755,
+         "sender": "6285878105774",
+         "today": 2
+      },
+      "del": {
+         "hitstat": 6,
+         "lasthit": 1683127508248,
+         "sender": "6285878105774",
+         "today": 6
+      },
+      "everyone": {
+         "hitstat": 2,
+         "lasthit": 1683118906563,
+         "sender": "6285692242216",
+         "today": 2
+      },
+      "filter": {
+         "hitstat": 1,
+         "lasthit": 1683117428607,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "goimg": {
+         "hitstat": 1,
+         "lasthit": 1683127224791,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "igstalk": {
+         "hitstat": 3,
+         "lasthit": 1683126893850,
+         "sender": "6285878105774",
+         "today": 3
+      },
+      "kbbg": {
+         "hitstat": 1,
+         "lasthit": 1683127203324,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "kick": {
+         "hitstat": 3,
+         "lasthit": 1683119001267,
+         "sender": "6285692242216",
+         "today": 3
+      },
+      "left": {
+         "hitstat": 1,
+         "lasthit": 1683118944301,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "limit": {
+         "hitstat": 6,
+         "lasthit": 1683128248757,
+         "sender": "6285692242216",
+         "today": 6
+      },
+      "list": {
+         "hitstat": 1,
+         "lasthit": 1683118506851,
+         "sender": "6285878105774",
+         "today": 1
+      },
+      "lyric": {
+         "hitstat": 1,
+         "lasthit": 1683127164132,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "owner": {
+         "hitstat": 4,
+         "lasthit": 1683117122871,
+         "sender": "6285878105774",
+         "today": 4
+      },
+      "play": {
+         "hitstat": 1,
+         "lasthit": 1683120155813,
+         "sender": "6285878105774",
+         "today": 1
+      },
+      "qc": {
+         "hitstat": 4,
+         "lasthit": 1683117819963,
+         "sender": "6285878105774",
+         "today": 4
+      },
+      "remini": {
+         "hitstat": 3,
+         "lasthit": 1683119430852,
+         "sender": "6285878105774",
+         "today": 3
+      },
+      "reset": {
+         "hitstat": 1,
+         "lasthit": 1683128243951,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "response": {
+         "hitstat": 1,
+         "lasthit": 1683127131460,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "restart": {
+         "hitstat": 1,
+         "lasthit": 1683128300021,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "s": {
+         "hitstat": 25,
+         "lasthit": 1683129044918,
+         "sender": "6285878105774",
+         "today": 25
+      },
+      "script": {
+         "hitstat": 2,
+         "lasthit": 1683117798961,
+         "sender": "6285878105774",
+         "today": 2
+      },
+      "self": {
+         "hitstat": 2,
+         "lasthit": 1683119698884,
+         "sender": "6285692242216",
+         "today": 2
+      },
+      "server": {
+         "hitstat": 2,
+         "lasthit": 1683128535433,
+         "sender": "6285878105774",
+         "today": 2
+      },
+      "setcover": {
+         "hitstat": 4,
+         "lasthit": 1683128562759,
+         "sender": "6285692242216",
+         "today": 4
+      },
+      "setlink": {
+         "hitstat": 1,
+         "lasthit": 1683117298546,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "setmsg": {
+         "hitstat": 5,
+         "lasthit": 1683129128424,
+         "sender": "6285692242216",
+         "today": 5
+      },
+      "setpp": {
+         "hitstat": 1,
+         "lasthit": 1683128592975,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "setwelcome": {
+         "hitstat": 1,
+         "lasthit": 1683117571361,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "setwm": {
+         "hitstat": 1,
+         "lasthit": 1683117366291,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "spotify": {
+         "hitstat": 3,
+         "lasthit": 1683118600443,
+         "sender": "6285878105774",
+         "today": 3
+      },
+      "tikmp3": {
+         "hitstat": 1,
+         "lasthit": 1683115315711,
+         "sender": "6285878105774",
+         "today": 1
+      },
+      "tiktok": {
+         "hitstat": 7,
+         "lasthit": 1683119581854,
+         "sender": "6285878105774",
+         "today": 7
+      },
+      "tnc": {
+         "hitstat": 1,
+         "lasthit": 1683121504779,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "wame": {
+         "hitstat": 1,
+         "lasthit": 1683127025226,
+         "sender": "6285878105774",
+         "today": 1
+      },
+      "welcome": {
+         "hitstat": 1,
+         "lasthit": 1683117514249,
+         "sender": "6285692242216",
+         "today": 1
+      },
+      "premium": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1683129156264,
+         "sender": "6285692242216"
+      },
+      "backup": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1683129180684,
+         "sender": "6285692242216"
+      }
+   },
+   "sticker": {},
+   "setting": {
+      "autodownload": true,
+      "chatbot": false,
+      "cover": "https://srv.neoxr.tk/files/obBm1h.jpg",
+      "debug": false,
+      "error": [],
+      "groupmode": false,
+      "lastReset": 1683128243953,
+      "link": "https://chat.whatsapp.com/KqGx272nHhV6lW1qxLmNOp",
+      "menuStyle": 2,
+      "mimic": [],
+      "msg": "👋Hai +tag Saya adalah sistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n⚠️Jika Anda menemukan kesalahan atau ingin meningkatkan paket premium, hubungi pemiliknya",
+      "multiprefix": true,
+      "noprefix": false,
+      "online": true,
+      "onlyprefix": "+",
+      "owners": [
+         "6285880029379"
+      ],
+      "pluginDisable": [],
+      "prefix": [
+         ".",
+         "/",
+         "!",
+         "#"
+      ],
+      "self": false,
+      "sk_author": "@ovabotz",
+      "sk_pack": "sticker",
+      "toxic": [
+         "ajg",
+         "ajig",
+         "anjas",
+         "anjg",
+         "anjim",
+         "anjing",
+         "anjrot",
+         "anying",
+         "asw",
+         "autis",
+         "babi",
+         "bacod",
+         "bacot",
+         "bagong",
+         "bajingan",
+         "bangsad",
+         "bangsat",
+         "bastard",
+         "bego",
+         "bgsd",
+         "biadab",
+         "biadap",
+         "bitch",
+         "bngst",
+         "bodoh",
+         "bokep",
+         "cocote",
+         "coli",
+         "colmek",
+         "comli",
+         "dajjal",
+         "dancok",
+         "dongo",
+         "fuck",
+         "gelay",
+         "goblog",
+         "goblok",
+         "guoblog",
+         "guoblok",
+         "hairul",
+         "henceut",
+         "idiot",
+         "itil",
+         "jamet",
+         "jancok",
+         "jembut",
+         "jingan",
+         "kafir",
+         "kanjut",
+         "kanyut",
+         "keparat",
+         "kntl",
+         "kontol",
+         "lana",
+         "loli",
+         "lont",
+         "lonte",
+         "mancing",
+         "meki",
+         "memek",
+         "ngentod",
+         "ngentot",
+         "ngewe",
+         "ngocok",
+         "ngtd",
+         "njeng",
+         "njing",
+         "njinx",
+         "oppai",
+         "pantek",
+         "pantek",
+         "peler",
+         "pepek",
+         "pilat",
+         "pler",
+         "pornhub",
+         "pucek",
+         "puki",
+         "pukimak",
+         "redhub",
+         "sange",
+         "setan",
+         "silit",
+         "telaso",
+         "tempek",
+         "tete",
+         "titit",
+         "toket",
+         "tolol",
+         "tomlol",
+         "tytyd",
+         "wildan",
+         "xnxx"
+      ]
+   }
+}
